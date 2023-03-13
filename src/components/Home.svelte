@@ -14,6 +14,7 @@
 	}
 	.container {
 		@apply flex flex-col h-[500px] bg-[#ffffff] items-center pl-[16px] pr-[16px] pt-[16px] rounded-[15px];
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 	}
 	.qr {
 		@apply rounded-[15px];
